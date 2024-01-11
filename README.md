@@ -1,6 +1,11 @@
+
+### google authentication link - https://manage.auth0.com/dashboard/us/dev-oz2cxl8mv7tjgcmx/tenant/billing/payment 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
